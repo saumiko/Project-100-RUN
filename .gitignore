@@ -23,7 +23,6 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
@@ -67,7 +66,6 @@ $RECYCLE.BIN/
 
 # Windows Installer files
 *.cab
-*.msi
 *.msm
 *.msp
 
